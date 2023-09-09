@@ -1,0 +1,9 @@
+SUMMARY:
+The speaker at the semiconductor conference discussed the importance of data and AI in smart manufacturing. They mentioned that Dell Technologies is working on leveraging non-structured data for smart manufacturing outcomes with AI. They highlighted the use of S3 native object storage and the partnership with NVIDIA for high-performance GPUs. The speaker also mentioned Project Helix, a solution for high-performance generative computing, and the Dell validated design for a complete AI development stack. They discussed the use of AI in manufacturing, particularly in the production of battery cells for electric vehicles. The speaker also emphasized the importance of data in AI, stating "no data, no AI". They concluded by discussing the role of AI in the existing data workflow of a smart manufacturing customer.
+
+KEYWORDS:
+1. Dell Technologies
+2. Non-Structured Data
+3. Smart Manufacturing
+4. Artificial Intelligence (AI)
+5. Project Helix

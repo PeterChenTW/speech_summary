@@ -1,0 +1,9 @@
+SUMMARY:
+The speaker represents a company that has been in the IC business for over 40 years and is the second largest pure-brain factory in the world. The company has 12 firms across Asia and employs over 2,000 people worldwide. They have four 12-inch fabs located in Japan, China, Taiwan, and Singapore. The company is part of the Semi-Smart Manufacturing Initiative, GEC, which focuses on AI-driven autonomous factory-load feature, sustainability, and future talent. The company is currently working towards Smart 2.0, which will use AI and ML to support decision-making. They have five platforms and solutions focused on data acquisition, current point systems, high definition simulation and models, AI ML solution equation, and smart autonomous control.
+
+KEYWORDS:
+1. IC business
+2. Semi-Smart Manufacturing Initiative, GEC
+3. AI-driven autonomous factory
+4. Smart 2.0
+5. Data acquisition.

@@ -1,0 +1,9 @@
+Summary:
+The speaker discussed the importance of digital twin and big data in the tech field, focusing on information and data for digital business integration. They highlighted the significance of advanced packaging in wireless technology and the increasing importance of H5. They also discussed the integration of logic and microchips into a single package and the increasing trend of stacking dice. The speaker mentioned the use of AI and machine learning in improving processes and the importance of process control in managing complex systems. They also discussed the development of high-accuracy bonding and the need to control thermal, vibration, and humidity levels. The speaker emphasized the importance of calibration and compensation in maintaining high accuracy.
+
+Keywords: 
+1. Digital Twin
+2. Big Data
+3. Advanced Packaging
+4. Process Control
+5. High-Accuracy Bonding

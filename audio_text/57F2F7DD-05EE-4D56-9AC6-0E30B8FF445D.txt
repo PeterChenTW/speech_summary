@@ -1,0 +1,16 @@
+from the equipment automation or fab automation towards AI-driven autonomous factory. I would like to briefly introduce my company. We are in the IC business for over 40 years and we are the number two pure-brain factory in the world. And we have 12 firms throughout the Asia with over 2,000 employees all over the world. And as you can see, we have 12 firms.
+
+throughout the Asia, and we have four 12-inch fabs. One in Japan, one in China, and one in Taiwan, and one in Singapore, so that we can diversify the geopolitical risks while providing customers with options to serve their local markets. This is our ESG vision, including to center on people. We will talk more about that, and in harmony with the environment and enable the community to thrive. So let's go to the semi-smart manufacturing company part. Thank you.
+
+We joined the Semi-Smart Manufacturing Initiative, GEC, last year. GEC stands for the Global Executive Committee. We focus on three centers of excellence in Semi-Smart Manufacturing Global Executive Committee, including AI-driven autonomous factory-load feature, from sensing, connecting, predicting to tuning. And the second is sustainability, gold and green manufacturing. And the third is future talent. As you can see, those are people-centric. As Tao, the CEO, mentioned yesterday, people are the center for everything.
+
+Our purpose is to shape the common vision and roadmap in semi-smart management committee. And this year, GEC has promoted this kind of concept called IT system provision concept. In the bottom of the pyramid, we have the fundamental point systems, which have the application-specific data architecture to connect different data sources from equipment, from facility, or from environment. And then, maybe after one to three years, we will have smart 1.0. We will have digital twin to leverage there are very many point systems to create more values by big data and statistics.
+
+And maybe after several years, we'll have Smart 2.0 with AI ML to support our decision and do some suggestions. Currently, we are in the way of Smart 2.0. And after that, we will have integrated autonomous operation called Smart Console Room. So as you can see, this model will express the migration of IT system in a fast way from the system point of view. So in order to come out a common vision and a common roadmap of the smart factory, we terrorized five kinds of...
+
+platform and solutions. So in iAcquire we focus on data acquisition, data quality and many other data sources and data management and data governance. In iInsight we focus on current point systems. In iDisco Twin we focus on high definition simulation and models. In iPrinted we focus on AI ML solution equation and also in iAutomaly we focus on smart autonomous control. But this is.
+
+from the IT system view but from the user view what does the user think about the Atomos factory? I think the most similar concept is like Atomos vehicle SAE defines the Atomos level from level 0 to level 5 before level 2, they are human dominated after level 3, they are system dominated and I can testify that in the semiconductor world level 0 is non-assisted so the user has to do everything manually for example, query data, joint chart, NLS data and using this knowledge to do the...
+
+judgment they were zero they were one
+

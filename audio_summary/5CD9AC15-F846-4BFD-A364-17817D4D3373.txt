@@ -1,0 +1,9 @@
+Summary:
+The speaker from Synopsys discussed the data challenges in the semiconductor industry, particularly for AI and ML applications. They highlighted the increasing complexity of chip manufacturing and the need for sophisticated applications to handle the scaling data. They emphasized the importance of on-time delivery and the need for incremental learning based on daily data collection. They also discussed the need for AI to be integrated within standard operating procedures in manufacturing. The speaker mentioned the release of FabFabTA, a data analytics tool aimed at improving process control and fab efficiency. They concluded by emphasizing the need for a better system to handle increasing data complexity and the importance of delivering insights in a timely manner.
+
+Keywords:
+1. Data challenges
+2. Semiconductor industry
+3. AI and ML applications
+4. FabFabTA
+5. Data analytics.

@@ -1,0 +1,9 @@
+SUMMARY:
+The speaker from Siemens discussed the company's efforts in driving IT-OT to the next level and their focus on sustainability through digital transformation. Siemens, with about 300,000 employees globally, operates in four sectors: industry, infrastructure, mobility, and healthcare. The speaker highlighted the importance of cybersecurity and staying updated with new regulations. They shared an example of their lighthouse plant in Amberg, which increased productivity 13 times and quality by 99.9% through digital enterprise. Siemens has also reduced energy consumption by 50% and aims to be fully carbon neutral by 2026. The speaker emphasized the need for sustainability, smart manufacturing, and resource efficiency in the semiconductor industry. They also discussed the concept of the digital twin and the role of AI in improving KPIs and use cases.
+
+KEYWORDS:
+1. Siemens
+2. Sustainability
+3. Digital Transformation
+4. Cybersecurity
+5. Digital Twin.

@@ -1,0 +1,9 @@
+SUMMARY:
+The speaker at the semiconductor conference discussed the importance of data analysis in the semiconductor industry. They emphasized the need for standardization and the use of generic AI capabilities for data analysis. They also highlighted the importance of data preparation and the use of data models. The speaker mentioned that 70% of the job is analyzing data and the rest is generating value from it. They also discussed the importance of understanding the parameters that correlate with their role as parameters. The speaker also stressed the importance of collaboration and cultural change in the industry. They mentioned the use of platforms such as Atelier for secure collaboration. They also discussed the importance of protecting intellectual property in data sharing. The speaker also highlighted the benefits of data analysis in improving quality and yield, and in accelerating the ramp-up of new technologies.
+
+KEYWORDS:
+1. Data Analysis
+2. Standardization
+3. AI Capabilities
+4. Collaboration
+5. Quality Improvement
