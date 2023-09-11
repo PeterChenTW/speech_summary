@@ -1,0 +1,9 @@
+Summary:
+The speaker at the semiconductor conference discussed the importance of generative AI in the future of smart manufacturing. They highlighted the role of Microsoft in sharing best practices for leveraging generative AI. They also mentioned the importance of hardware and software in this process. The speaker emphasized the need for more computing power to accelerate the design, engineering, and manufacturing processes due to the increasing complexity of product and chip designs. They also discussed the role of GPU in accelerating these processes and the importance of parallel computing. The speaker also mentioned the use of generative AI in various industries, including genomics and pharmaceuticals. 
+
+Keywords:
+1. Generative AI
+2. Microsoft
+3. Hardware
+4. Software
+5. Parallel computing

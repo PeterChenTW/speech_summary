@@ -1,0 +1,9 @@
+Summary:
+The speaker at the semiconductor conference discussed the future of smart manufacturing and the role of data analytics in the process. They highlighted the importance of data standardization and the use of AI-driven analytics. They also mentioned the shift from human-based control to data-driven control in manufacturing. The speaker emphasized the need for proper data management and the use of AI in design and control. They also mentioned the goal of achieving autonomous manufacturing, where everything is done automatically. The speaker also discussed the importance of training AI and infusing engineering concepts into machines and algorithms.
+
+Keywords: 
+1. Smart Manufacturing
+2. Data Analytics
+3. Autonomous Manufacturing
+4. AI-Driven Analytics
+5. Data Standardization
